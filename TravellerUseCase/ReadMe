@@ -1,1 +1,5 @@
-
+#Get Nearest car from MongoDb Atlas Collection and collecting that data in dictionary
+#Chosing nearest car in our nearest_car dictionary
+#Calculating total travel hours distance and estimation time arrivals
+#Collecting coordinates for traveller ,cars starting point and destination city
+#Creating map and opening in browser above information
